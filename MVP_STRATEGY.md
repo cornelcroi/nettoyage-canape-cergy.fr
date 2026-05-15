@@ -21,6 +21,24 @@ Its job is to:
 - generate form submissions
 - prove local demand
 
+## Market Thesis
+
+The opportunity exists because many local service providers still have weak online execution:
+
+- old or slow websites
+- poor mobile UX
+- unclear CTAs
+- weak local SEO
+- little structured content
+- no clear lead capture system
+- inconsistent business information
+
+The business is not about building beautiful websites. The business is capturing high-intent local search demand and converting it into calls, SMS messages, and form submissions.
+
+A simple static website can be competitive when it is faster, clearer, more mobile-friendly, and more locally relevant than existing local business websites.
+
+The difficult part is not building the first page. The difficult part is earning local visibility through indexing, relevant content, Google Business consistency, citations, and continuous measurement.
+
 ## First MVP
 
 The first test site is:
@@ -38,6 +56,24 @@ Why this niche:
 - easier competition than locksmiths or plumbers
 - simple service explanation
 - easy lead routing through phone, SMS, and form
+
+## Domain Strategy
+
+For the first MVP, an exact-match local domain is a good choice.
+
+`nettoyage-canape-cergy.fr` clearly communicates the service, city, and search intent. This can help users understand the site immediately and may improve click-through from local search results.
+
+The goal is not to build a large brand at this stage. The goal is to test whether Google sends local traffic and whether that traffic turns into calls, SMS messages, or form submissions.
+
+Even though the domain is specific, the implementation should stay reusable. The site should act as a template that can later be adapted to another city or niche.
+
+Possible future examples:
+
+- `nettoyage-canape-pontoise.fr`
+- `nettoyage-canape-argenteuil.fr`
+- `plombier-cergy.fr`
+
+If the MVP works, the model can expand through more exact-match domains, a broader brand, or an internal generator.
 
 ## Validation Goals
 
