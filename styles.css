@@ -354,6 +354,33 @@ details p {
   color: #84d6bd;
 }
 
+.contact-panel {
+  display: grid;
+  gap: 10px;
+  margin-top: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.contact-panel p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.contact-panel a {
+  display: inline-flex;
+  min-height: 46px;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius);
+  background: var(--white);
+  color: var(--ink);
+  font-weight: 900;
+  text-decoration: none;
+}
+
 .lead-form {
   display: grid;
   gap: 14px;
@@ -489,7 +516,7 @@ textarea:focus {
 @media (min-width: 680px) {
   .hero-actions {
     width: auto;
-    grid-template-columns: repeat(2, minmax(180px, 1fr));
+    grid-template-columns: repeat(3, minmax(160px, 1fr));
   }
 
   .service-grid,
