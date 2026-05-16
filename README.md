@@ -40,8 +40,10 @@ No CMS, database, dynamic rendering, or runtime page generation is required for 
 - `robots.txt` - crawler instructions
 - `.github/workflows/deploy-cloudflare.yml` - Cloudflare deployment workflow
 
-## Documentation
+## Project Context
 
-- `MVP_STRATEGY.md` - business model, validation logic, and operating principles
-- `LAUNCH_CHECKLIST.md` - repeatable checklist for launching future local lead-generation sites
-- `google-business.md` - Google Business Profile setup notes
+- `PROJECT_CONTEXT.md` - site-specific strategy, niche, phone, deployment, and rules
+
+Generic operating docs live in:
+
+`/Users/corneliu/projects/local-lead-gen-playbook`
