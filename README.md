@@ -16,8 +16,8 @@ https://nettoyage-canape-cergy.fr
 
 ## Lead Channels
 
-- Phone: `+33 7 56 80 43 67`
-- SMS: `+33 7 56 80 43 67`
+- Phone: `07 56 80 43 67`
+- SMS: `07 56 80 43 67`
 - Formspree form endpoint
 
 ## Stack
@@ -45,4 +45,3 @@ No CMS, database, dynamic rendering, or runtime page generation is required for 
 - `MVP_STRATEGY.md` - business model, validation logic, and operating principles
 - `LAUNCH_CHECKLIST.md` - repeatable checklist for launching future local lead-generation sites
 - `google-business.md` - Google Business Profile setup notes
-

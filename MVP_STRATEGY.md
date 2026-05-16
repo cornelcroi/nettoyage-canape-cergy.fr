@@ -119,7 +119,7 @@ Use the same phone number everywhere:
 
 For this MVP, the phone number is:
 
-`+33 7 56 80 43 67`
+`07 56 80 43 67`
 
 ## Lead Handling
 

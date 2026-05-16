@@ -48,7 +48,7 @@ Do not add a huge region at the beginning. The goal is local relevance.
 
 Use the same number as the website:
 
-`+33 7 56 80 43 67`
+`07 56 80 43 67`
 
 Use this number consistently across:
 
